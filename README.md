@@ -8,6 +8,7 @@ A complete archive of my problem-solving journey. Here, I upload solutions to pr
 | :--- | :--- | :--- |
 | **Beecrowd** | `almamun69` | [Visit Profile](https://judge.beecrowd.com/en/profile/1194289) |
 | **Codeforces** | `252-15-949` | [Visit Profile](https://codeforces.com/profile/252-15-949) |
+| **LeetCode** | `almamun69` | [Visit Profile](https://leetcode.com/u/almamun69/) |
 
 ## 📂 Repository Structure
 
